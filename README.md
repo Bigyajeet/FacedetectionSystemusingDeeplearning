@@ -5,7 +5,7 @@
 
 ## 🌟 Overview
 
-This repository presents a complete **Face Detection System** built with Deep Learning. The project showcases an end-to-end machine learning pipeline, from custom data acquisition using common household technology to the training and evaluation of a robust face detection model.
+This repository presents a complete **Face Detection System** built with Deep Learning. The project showcases an end-to-end machine learning pipeline, from custom data acquisition using common household technology to the training and evaluation of a robust face detection model as well you can download ipwebacm for  live photos 
 
 The system is designed to accurately identify and localize human faces within images, leveraging the power of Convolutional Neural Networks (CNNs) and practical data collection strategies.
 
